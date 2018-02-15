@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package io.narayana.lra.checker;
+package cz.chalda.classloader;
 
 import java.io.IOException;
 import java.net.URL;
