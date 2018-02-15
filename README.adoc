@@ -1,0 +1,4 @@
+= Utility classes on classloader debugging
+
+Just a utility class for showing hierarchy and content
+of class loaders.
